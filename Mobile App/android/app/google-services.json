@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219291865691",
+    "project_id": "solution-challenge-f74ab",
+    "storage_bucket": "solution-challenge-f74ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219291865691:android:15947ff2fac0e9d989657e",
+        "android_client_info": {
+          "package_name": "com.firstapp.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219291865691-l9hfiqlielh7rnh87usgggob7gg7ahic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDan6P14S3f-7Fm8AiFKlCA0tDEPyGkdqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219291865691-l9hfiqlielh7rnh87usgggob7gg7ahic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
