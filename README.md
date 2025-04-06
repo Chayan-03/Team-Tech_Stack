@@ -38,7 +38,7 @@ Our platform bridges critical gaps by providing direct market access, crop healt
 | 🌱 IoT Device Code | [AgroSetu IoT Repository](https://github.com/Chayan-03/AgroSetu-IOT) |
 | 🎥 Demo Video | [Watch on YouTube](https://www.youtube.com/watch?v=S-SJ8v9uwR8) |
 
-> **Note**: Replace `your-username` and `your-demo-video-link` with the actual URLs.
+
 
 ---
 
@@ -55,8 +55,12 @@ AgroSetu is designed to:
 ---
 
 ## 📸 Demo Screenshots
+![Screenshot 2025-04-07 004747](https://github.com/user-attachments/assets/e33e3271-32ee-40ea-9af8-fe67cecc9cd5)  ![Screenshot 2025-04-07 004814](https://github.com/user-attachments/assets/5a753bfd-9686-4bf1-aa84-c0a2788f2bd2)   ![Screenshot 2025-04-07 004704](https://github.com/user-attachments/assets/74b1d821-02f9-445e-9a8e-17d29fcad38d)
 
-> (Add some screenshots or GIFs here showing the website, mobile app, and IoT dashboard!)
+
+
+![Architecture Diagram ](https://github.com/user-attachments/assets/c9f766d6-7083-4431-a20c-70e20c910cf4)
+
 
 ---
 
@@ -83,7 +87,7 @@ AgroSetu is designed to:
 
 The **Google Solution Challenge** aims to solve one or more of the United Nations’ 17 Sustainable Development Goals using Google technologies. AgroSetu contributes towards:
 
-- **Goal 2: Zero Hunger**
+
 - **Goal 8: Decent Work and Economic Growth**
 - **Goal 9: Industry, Innovation and Infrastructure**
 - **Goal 12: Responsible Consumption and Production**
