@@ -1,0 +1,23 @@
+{
+  "searchPlaceholder": "Search by location or storage name...",
+  "filters": "Filters",
+  "priceRangeLabel": "Price Range (per period)",
+  "capacityLabel": "Capacity (sq ft)",
+  "rentalPeriodLabel": "Rental Period",
+  "duration": {
+    "any": "Any Period",
+    "day": "Daily",
+    "week": "Weekly",
+    "month": "Monthly",
+    "season": "Seasonal",
+    "year": "Yearly"
+  },
+  "reset": "Reset",
+  "applyFilters": "Apply Filters",
+  "noResults": "No cold storage facilities match your criteria.",
+  "clearAllFilters": "Clear all filters",
+  "capacityLabelShort": "Capacity:",
+  "sqft": "sq ft",
+  "rentNow": "Rent Now",
+  "contactOwner": "Contact Owner"
+}

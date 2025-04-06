@@ -1,0 +1,23 @@
+{
+  "searchPlaceholder": "स्थान या भंडारण नाम से खोजें...",
+  "filters": "फ़िल्टर",
+  "priceRangeLabel": "मूल्य सीमा (प्रति अवधि)",
+  "capacityLabel": "क्षमता (वर्ग फुट)",
+  "rentalPeriodLabel": "किराया अवधि",
+  "duration": {
+    "any": "कोई भी अवधि",
+    "day": "दैनिक",
+    "week": "साप्ताहिक",
+    "month": "मासिक",
+    "season": "मौसमी",
+    "year": "वार्षिक"
+  },
+  "reset": "रीसेट करें",
+  "applyFilters": "फ़िल्टर लागू करें",
+  "noResults": "आपके मानदंडों से मेल खाने वाली कोई कोल्ड स्टोरेज सुविधा नहीं मिली।",
+  "clearAllFilters": "सभी फ़िल्टर साफ़ करें",
+  "capacityLabelShort": "क्षमता:",
+  "sqft": "वर्ग फुट",
+  "rentNow": "अब किराए पर लें",
+  "contactOwner": "मालिक से संपर्क करें"
+}

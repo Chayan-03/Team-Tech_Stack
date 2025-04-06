@@ -1,0 +1,19 @@
+{
+  "title": "What would you like to do?",
+  "buy": {
+    "heading": "Buy",
+    "text": "Browse crops, farming equipment, and more"
+  },
+  "sell": {
+    "heading": "Sell",
+    "text": "List your crops, farming equipment for sale"
+  },
+  "rent": {
+    "heading": "Rent",
+    "text": "Find rental cold storage spaces"
+  },
+  "list": {
+    "heading": "List",
+    "text": "List your rental cold storage spaces"
+  }
+}

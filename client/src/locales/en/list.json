@@ -1,0 +1,53 @@
+{
+  "header": "List Your Storage Facility",
+  "step": {
+    "details": "Details",
+    "media": "Media",
+    "publish": "Publish",
+    "facilityDetails": "Facility Details",
+    "facilityNameLabel": "Facility Name",
+    "facilityNamePlaceholder": "e.g. Industrial Cold Storage Facility",
+    "locationLabel": "Location",
+    "locationPlaceholder": "e.g. Pune, Maharashtra",
+    "capacityLabel": "Capacity (in tons)",
+    "capacityPlaceholder": "e.g. 5000",
+    "priceLabel": "Price (₹)",
+    "pricePlaceholder": "e.g. 200000",
+    "periodLabel": "Rental Period",
+    "descriptionLabel": "Description (Optional)",
+    "descriptionPlaceholder": "Add details about your facility...",
+    "continue": "Continue to Add Photos & Amenities",
+    "title": "Photos & Amenities",
+    "photosLabel": "Facility Photos",
+    "uploadPrompt": "Upload Facility Images",
+    "uploadInstructions": "Drag and drop your image here, or click to browse",
+    "browseFiles": "Browse Files",
+    "fileInfo": "Maximum file size: 5MB | Formats: JPG, PNG",
+    "previewAlt": "Preview",
+    "previewInfo": "Your main facility image. This will be displayed in the listing.",
+    "amenitiesLabel": "Available Amenities",
+    "back": "Back",
+    "publishing": "Publishing...",
+    "publishListing": "Publish Listing",
+    "listingPublished": "Listing Published!",
+    "successMessage": "Your facility has been successfully listed and is now available for users to rent.",
+    "listAnother": "List Another Facility"
+  },
+  "period": {
+    "day": "Per Day",
+    "week": "Per Week",
+    "month": "Per Month",
+    "year": "Per Year"
+  },
+  "amenities": {
+    "temperatureControl": "Temperature Control",
+    "inventorySystem": "Inventory System",
+    "forkliftAvailable": "Forklift Available",
+    "access24x7": "24/7 Access",
+    "securitySystem": "Security System",
+    "loadingDock": "Loading Dock",
+    "flexibleTerms": "Flexible Terms",
+    "easyAccess": "Easy Access",
+    "cityCenter": "City Center"
+  }
+}

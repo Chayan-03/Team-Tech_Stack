@@ -1,0 +1,9 @@
+{
+  "greeting": {
+    "morning": "Good Morning",
+    "afternoon": "Good Afternoon",
+    "evening": "Good Evening"
+  },
+  "farmer": "Farmer",
+  "profileAlt": "Profile"
+}

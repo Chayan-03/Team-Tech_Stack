@@ -1,0 +1,13 @@
+{
+  "chatbot": {
+    "title": "Krishi Mitr",
+    "subtitle": "Agricultural Advisor",
+    "inputPlaceholder": "Ask a question...",
+    "analyzing": "Analyzing...",
+    "detect": "Detect",
+    "unknownResponse": "I'm not sure how to respond.",
+    "errorResponse": "Sorry, there was an error processing your request.",
+    "assistantAlt": "Farm Assistant",
+    "selectedFiles": "Selected files:"
+  }
+}

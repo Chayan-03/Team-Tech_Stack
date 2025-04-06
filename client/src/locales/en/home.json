@@ -1,0 +1,22 @@
+{
+  "location": "New Delhi",
+  "weatherStatus": "Partly Cloudy",
+  "humidity": "🌧 {{value}}%",
+  "wind": "💨 {{value}} km/h",
+  "temperature": "28°C",
+  "rainAlert": "Rainfall expected in next 48 hours",
+  "quickActionsTitle": "Quick Actions",
+  "cropPlanning": "Crop Planning",
+  "cropPlanningDesc": "Plan your next crop cycle",
+  "marketPrices": "Market Prices",
+  "marketPricesDesc": "Check latest market rates",
+  "irrigation": "Irrigation",
+  "irrigationDesc": "Water management",
+  "myCrops": "My Crops",
+  "stageAndArea": "{{stage}} | {{area}}",
+  "progressCompleted": "{{progress}}% Completed",
+  "financialOverview": "Financial Overview",
+  "totalEarnings": "Total Earnings",
+  "expectedHarvest": "Expected Harvest",
+  "next30Days": "Next 30 Days"
+}

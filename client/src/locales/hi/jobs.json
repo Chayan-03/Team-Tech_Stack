@@ -1,0 +1,25 @@
+{
+  "jobBoardTitle": "कृषि नौकरी बोर्ड",
+  "searchPlaceholder": "नौकरियों या स्थानों की खोज करें...",
+  "category": {
+    "all": "सभी नौकरियाँ",
+    "farming": "कृषिकर्म",
+    "labor": "श्रम",
+    "agriculture": "कृषि",
+    "harvest": "फसल कटाई"
+  },
+  "job": "नौकरी",
+  "jobs": "नौकरियाँ",
+  "found": "मिलीं",
+  "noJobsFound": "कोई नौकरियाँ नहीं मिलीं",
+  "clearFilters": "फ़िल्टर साफ़ करें",
+  "posted": "प्रकाशित",
+  "apply": "आवेदन करें",
+  "jobType": {
+    "full-time": "पूर्णकालिक",
+    "part-time": "आंशिककालिक",
+    "seasonal": "मौसमी",
+    "contract": "अनुबंध"
+  },
+  "date": "6 अप्रैल, 2025"
+}

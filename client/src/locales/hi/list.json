@@ -1,0 +1,53 @@
+{
+  "header": "अपनी भंडारण सुविधा सूचीबद्ध करें",
+  "step": {
+    "details": "विवरण",
+    "media": "मीडिया",
+    "publish": "प्रकाशित करें",
+    "facilityDetails": "सुविधा विवरण",
+    "facilityNameLabel": "सुविधा का नाम",
+    "facilityNamePlaceholder": "जैसे: इंडस्ट्रियल कोल्ड स्टोरेज सुविधा",
+    "locationLabel": "स्थान",
+    "locationPlaceholder": "जैसे: पुणे, महाराष्ट्र",
+    "capacityLabel": "क्षमता (टन में)",
+    "capacityPlaceholder": "जैसे: 5000",
+    "priceLabel": "मूल्य (₹)",
+    "pricePlaceholder": "जैसे: 200000",
+    "periodLabel": "किराया अवधि",
+    "descriptionLabel": "विवरण (वैकल्पिक)",
+    "descriptionPlaceholder": "अपनी सुविधा के बारे में विवरण जोड़ें...",
+    "continue": "फ़ोटो और सुविधाएँ जोड़ने के लिए जारी रखें",
+    "title": "फ़ोटो और सुविधाएँ",
+    "photosLabel": "सुविधा की फ़ोटो",
+    "uploadPrompt": "सुविधा की छवियाँ अपलोड करें",
+    "uploadInstructions": "अपनी छवि यहां ड्रैग और ड्रॉप करें, या ब्राउज़ करने के लिए क्लिक करें",
+    "browseFiles": "फ़ाइलें ब्राउज़ करें",
+    "fileInfo": "अधिकतम फ़ाइल आकार: 5MB | प्रारूप: JPG, PNG",
+    "previewAlt": "पूर्वावलोकन",
+    "previewInfo": "आपकी मुख्य सुविधा छवि। यह लिस्टिंग में दिखाई जाएगी।",
+    "amenitiesLabel": "उपलब्ध सुविधाएँ",
+    "back": "वापस",
+    "publishing": "प्रकाशित किया जा रहा है...",
+    "publishListing": "लिस्टिंग प्रकाशित करें",
+    "listingPublished": "लिस्टिंग प्रकाशित हो गई!",
+    "successMessage": "आपकी सुविधा सफलतापूर्वक सूचीबद्ध हो गई है और अब उपयोगकर्ताओं के लिए किराए पर उपलब्ध है।",
+    "listAnother": "एक और सुविधा सूचीबद्ध करें"
+  },
+  "period": {
+    "day": "प्रति दिन",
+    "week": "प्रति सप्ताह",
+    "month": "प्रति माह",
+    "year": "प्रति वर्ष"
+  },
+  "amenities": {
+    "temperatureControl": "तापमान नियंत्रण",
+    "inventorySystem": "इन्वेंटरी सिस्टम",
+    "forkliftAvailable": "फोर्कलिफ्ट उपलब्ध",
+    "access24x7": "24/7 पहुंच",
+    "securitySystem": "सुरक्षा प्रणाली",
+    "loadingDock": "लोडिंग डॉक",
+    "flexibleTerms": "लचीले नियम",
+    "easyAccess": "आसान पहुंच",
+    "cityCenter": "शहर का केंद्र"
+  }
+}
