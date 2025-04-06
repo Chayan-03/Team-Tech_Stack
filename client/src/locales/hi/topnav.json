@@ -1,0 +1,9 @@
+{
+  "greeting": {
+    "morning": "सुप्रभात",
+    "afternoon": "नमस्कार",
+    "evening": "शुभ संध्या"
+  },
+  "farmer": "किसान",
+  "profileAlt": "प्रोफ़ाइल"
+}

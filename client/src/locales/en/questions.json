@@ -1,0 +1,35 @@
+{
+  "farmAITitle": "Krishi Mitr",
+  "welcomeTitle": "Smart farming assistance",
+  "welcomeSubtitle": "Get expert advice on agricultural management and planning",
+  "askAbout": "Ask about",
+  "footer": "Tap a category to get started or type your question below",
+  "categories": {
+    "crops": "Crops",
+    "soil": "Soil",
+    "pests": "Pests",
+    "weather": "Weather"
+  },
+  "commonQuestions": {
+    "crops": [
+      "Optimal spacing for corn planting",
+      "Early signs of blight in tomatoes",
+      "Best cover crops for nitrogen fixation"
+    ],
+    "soil": [
+      "Improving clay soil drainage",
+      "Home methods for testing soil pH",
+      "Best timing for compost application"
+    ],
+    "pests": [
+      "Natural aphid control methods",
+      "Strategies against corn rootworm",
+      "Companion plants that deter pests"
+    ],
+    "weather": [
+      "Preparing for prolonged drought",
+      "Crops resilient to unpredictable rainfall",
+      "Frost protection in orchards"
+    ]
+  }
+}
