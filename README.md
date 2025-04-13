@@ -33,7 +33,7 @@ Our platform bridges critical gaps by providing direct market access, crop healt
 
 | Component | Repository Link |
 | :--- | :--- |
-| 🌐 Website | [AgroSetu Web App Repository](https://github.com/Chayan-03/Team-Tech_Stack) |
+| 🌐 Website | [AgroSetu Web App Repository](https://github.com/AdishtJaglan/agro-setu) |
 | 📱 Mobile App | [AgroSetu Mobile App Repository](https://github.com/Chayan-03/AgroSetu-Mobile-App) |
 | 🌱 IoT Device Code | [AgroSetu IoT Repository](https://github.com/Chayan-03/AgroSetu-IOT) |
 | 🎥 Demo Video | [Watch on YouTube](https://www.youtube.com/watch?v=S-SJ8v9uwR8) |
